@@ -1,0 +1,341 @@
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.Principal.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.GUILayer.Usuarios.frmABMUsuario.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.Properties.Resources.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\pav\bin\Debug\pav.exe.config
+C:\Users\Usuario\source\repos\pav\bin\Debug\pav.exe
+C:\Users\Usuario\source\repos\pav\bin\Debug\pav.pdb
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.exe
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.pdb
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.GUILayer.Usuarios.frmUsuarios.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.GUILayer.Login.frmLogin.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.GUILayer.Articulos.frmConsultaArt.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.GUILayer.Articulos.frmDetalleArt.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.GUILayer.Clientes.frmClientes.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.GUILayer.Transacciones.frmTransFactura.resources
+C:\Users\Usuario\source\repos\pav\obj\Debug\pav.GUILayer.Clientes.frmABMCliente.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\bin\Debug\pav.exe.config
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\bin\Debug\pav.exe
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\bin\Debug\pav.pdb
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.csprojAssemblyReference.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Articulos.frmConsultaArt.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Articulos.frmDetalleArt.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Clientes.frmABMCliente.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Clientes.frmClientes.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Login.frmLogin.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.Principal.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmABMPerfil.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmPerfiles.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Transacciones.frmTransFactura.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmABMUsuario.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmUsuarios.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.Properties.Resources.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.csproj.GenerateResource.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.csproj.CoreCompileInputs.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.exe
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v4.0\pav\obj\Debug\pav.pdb
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\bin\Debug\pav.exe.config
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\bin\Debug\pav.exe
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\bin\Debug\pav.pdb
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Articulos.frmConsultaArt.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Articulos.frmDetalleArt.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Clientes.frmABMCliente.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Clientes.frmClientes.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Login.frmLogin.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.Principal.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmABMPerfil.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmPerfiles.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Transacciones.frmTransFactura.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmABMUsuario.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmUsuarios.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.Properties.Resources.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.exe
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.pdb
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Marcas.frmMarca.resources
+C:\Users\Usuario\source\repos\PavTp v4.0\pav\obj\Debug\pav.GUILayer.Marcas.frmABMMarca.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\bin\Debug\pav.exe.config
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\bin\Debug\pav.exe
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\bin\Debug\pav.pdb
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.csprojAssemblyReference.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Articulos.frmConsultaArt.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Articulos.frmDetalleArt.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Clientes.frmABMCliente.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Clientes.frmClientes.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Login.frmLogin.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.Principal.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Marcas.frmABMMarca.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Marcas.frmMarca.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmABMPerfil.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmPerfiles.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Transacciones.frmTransFactura.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmABMUsuario.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmUsuarios.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.Properties.Resources.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.csproj.GenerateResource.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.csproj.CoreCompileInputs.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.exe
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.pdb
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Ejercicios.frmABMEjercicio.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v5.0\pav\obj\Debug\pav.GUILayer.Ejercicios.frmEjercicios.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\pav.exe.config
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\pav.exe
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\pav.pdb
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Articulos.frmConsultaArt.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Articulos.frmDetalleArt.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Clientes.frmABMCliente.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Clientes.frmClientes.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Ejercicios.frmABMEjercicio.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Ejercicios.frmEjercicios.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Login.frmLogin.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.Principal.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Marcas.frmABMMarca.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Marcas.frmMarca.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmABMPerfil.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmPerfiles.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Transacciones.frmTransFactura.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmABMUsuario.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmUsuarios.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.Properties.Resources.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.exe
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.pdb
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\pav.exe.config
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\pav.exe
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\pav.pdb
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.csprojAssemblyReference.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Articulos.frmConsultaArt.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Articulos.frmDetalleArt.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Clientes.frmABMCliente.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Clientes.frmClientes.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Ejercicios.frmABMEjercicio.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Ejercicios.frmEjercicios.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Login.frmLogin.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.Principal.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Marcas.frmABMMarca.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Marcas.frmMarca.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmABMPerfil.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Perfiles.frmPerfiles.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Transacciones.frmTransFactura.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmABMUsuario.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Usuarios.frmUsuarios.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.Properties.Resources.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.csproj.GenerateResource.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.exe
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.pdb
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\EnvDTE.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\stdole.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\Microsoft.MSXML.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Reportes.frmReportePerfiles.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\RdlCompile.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\RdlCompile.compiled
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTp v6.0\pav\obj\Debug\pav.csproj.CopyComplete
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\EnvDTE.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\stdole.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Reportes.frmReporteEjercicios.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.GUILayer.Reportes.frmReportePerfiles.resources
+C:\Users\Usuario\source\repos\PavTp v6.0\pav\obj\Debug\pav.csproj.CopyComplete
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\pav.exe.config
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\pav.exe
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\pav.pdb
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\EnvDTE.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\stdole.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\Microsoft.MSXML.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.csprojAssemblyReference.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Articulos.frmConsultaArt.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Articulos.frmDetalleArt.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Clientes.frmABMCliente.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Clientes.frmClientes.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Ejercicios.frmABMEjercicio.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Ejercicios.frmEjercicios.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Login.frmLogin.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.Principal.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Marcas.frmABMMarca.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Marcas.frmMarca.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Perfiles.frmABMPerfil.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Perfiles.frmPerfiles.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Reportes.frmReporteEjercicios.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Reportes.frmReportePerfiles.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Reportes.frmReporteUsuario.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Transacciones.frmTransFactura.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Usuarios.frmABMUsuario.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.GUILayer.Usuarios.frmUsuarios.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.Properties.Resources.resources
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.csproj.GenerateResource.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\RdlCompile.cache
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\RdlCompile.compiled
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.csproj.CopyComplete
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.exe
+D:\Mis Cosas\Facultad\3 año\PAV I\PavTP v6.1\PavTp v6.1\pav\obj\Debug\pav.pdb

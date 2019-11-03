@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{72EF063A-612D-4B94-8820-8685A9040B0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>pav</RootNamespace>
+    <AssemblyName>pav</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.3.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1358.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLayer\ArticuloService.cs" />
+    <Compile Include="BusinessLayer\ClienteService.cs" />
+    <Compile Include="BusinessLayer\EjercicioService.cs" />
+    <Compile Include="BusinessLayer\FacturaService.cs" />
+    <Compile Include="BusinessLayer\MarcaService.cs" />
+    <Compile Include="BusinessLayer\PerfilService.cs" />
+    <Compile Include="BusinessLayer\TipoFacturaService.cs" />
+    <Compile Include="BusinessLayer\UsuarioService.cs" />
+    <Compile Include="DataAcessLayer\ArticuloDao.cs" />
+    <Compile Include="DataAcessLayer\ClienteDao.cs" />
+    <Compile Include="DataAcessLayer\DataManager.cs" />
+    <Compile Include="DataAcessLayer\DBHelper.cs" />
+    <Compile Include="DataAcessLayer\EjercicioDao.cs" />
+    <Compile Include="DataAcessLayer\FacturaDao.cs" />
+    <Compile Include="DataAcessLayer\MarcaDao.cs" />
+    <Compile Include="DataAcessLayer\PerfillDao.cs" />
+    <Compile Include="DataAcessLayer\TipoFacturaDao.cs" />
+    <Compile Include="DataAcessLayer\UsuarioDao.cs" />
+    <Compile Include="Entities\Articulo.cs" />
+    <Compile Include="Entities\Cliente.cs" />
+    <Compile Include="Entities\Ejercicio.cs" />
+    <Compile Include="Entities\Enfermedad.cs" />
+    <Compile Include="Entities\Factura.cs" />
+    <Compile Include="Entities\FacturaDetalle.cs" />
+    <Compile Include="Entities\Marca.cs" />
+    <Compile Include="Entities\Perfil.cs" />
+    <Compile Include="Entities\TipoFactura.cs" />
+    <Compile Include="Entities\Usuario.cs" />
+    <Compile Include="GUILayer\Articulos\frmConsultaArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Articulos\frmConsultaArt.Designer.cs">
+      <DependentUpon>frmConsultaArt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Articulos\frmDetalleArt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Articulos\frmDetalleArt.Designer.cs">
+      <DependentUpon>frmDetalleArt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\frmABMCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\frmABMCliente.Designer.cs">
+      <DependentUpon>frmABMCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\frmClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Clientes\frmClientes.Designer.cs">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Ejercicios\frmABMEjercicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Ejercicios\frmABMEjercicio.Designer.cs">
+      <DependentUpon>frmABMEjercicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Ejercicios\frmEjercicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Ejercicios\frmEjercicios.Designer.cs">
+      <DependentUpon>frmEjercicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\frmPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\frmPrincipal.Designer.cs">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Marcas\frmABMMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Marcas\frmABMMarca.Designer.cs">
+      <DependentUpon>frmABMMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Marcas\frmMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Marcas\frmMarca.Designer.cs">
+      <DependentUpon>frmMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Perfiles\frmABMPerfil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Perfiles\frmABMPerfil.Designer.cs">
+      <DependentUpon>frmABMPerfil.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Perfiles\frmPerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Perfiles\frmPerfiles.Designer.cs">
+      <DependentUpon>frmPerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\dsArticulos.cs">
+      <DependentUpon>dsArticulos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\dsArticulos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsArticulos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\dsEjercicios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsEjercicios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\dsPerfiles.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsPerfiles.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\dsUsuarios.cs">
+      <DependentUpon>dsUsuarios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\dsUsuarios.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dsUsuarios.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\frmReporteArticulos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\frmReporteArticulos.Designer.cs">
+      <DependentUpon>frmReporteArticulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\frmReporteEjercicios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\frmReporteEjercicios.Designer.cs">
+      <DependentUpon>frmReporteEjercicios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\frmReportePerfiles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\frmReportePerfiles.Designer.cs">
+      <DependentUpon>frmReportePerfiles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\frmReporteUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Reportes\frmReporteUsuario.Designer.cs">
+      <DependentUpon>frmReporteUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Transacciones\frmTransFactura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Transacciones\frmTransFactura.Designer.cs">
+      <DependentUpon>frmTransFactura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Usuarios\frmABMUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Usuarios\frmABMUsuario.Designer.cs">
+      <DependentUpon>frmABMUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUILayer\Usuarios\frmUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUILayer\Usuarios\frmUsuarios.Designer.cs">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <EmbeddedResource Include="GUILayer\Articulos\frmConsultaArt.resx">
+      <DependentUpon>frmConsultaArt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Articulos\frmDetalleArt.resx">
+      <DependentUpon>frmDetalleArt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Clientes\frmABMCliente.resx">
+      <DependentUpon>frmABMCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Clientes\frmClientes.resx">
+      <DependentUpon>frmClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Ejercicios\frmABMEjercicio.resx">
+      <DependentUpon>frmABMEjercicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Ejercicios\frmEjercicios.resx">
+      <DependentUpon>frmEjercicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\frmPrincipal.resx">
+      <DependentUpon>frmPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Marcas\frmABMMarca.resx">
+      <DependentUpon>frmABMMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Marcas\frmMarca.resx">
+      <DependentUpon>frmMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Perfiles\frmABMPerfil.resx">
+      <DependentUpon>frmABMPerfil.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Perfiles\frmPerfiles.resx">
+      <DependentUpon>frmPerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Reportes\frmReporteEjercicios.resx">
+      <DependentUpon>frmReporteEjercicios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Reportes\frmReportePerfiles.resx">
+      <DependentUpon>frmReportePerfiles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Reportes\frmReporteUsuario.resx">
+      <DependentUpon>frmReporteUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Reportes\rptArticulos.rdlc" />
+    <EmbeddedResource Include="GUILayer\Reportes\rptEjercicios.rdlc" />
+    <EmbeddedResource Include="GUILayer\Reportes\rptPerfiles.rdlc" />
+    <EmbeddedResource Include="GUILayer\Reportes\rptUsuarios.rdlc" />
+    <EmbeddedResource Include="GUILayer\Transacciones\frmTransFactura.resx">
+      <DependentUpon>frmTransFactura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Usuarios\frmABMUsuario.resx">
+      <DependentUpon>frmABMUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUILayer\Usuarios\frmUsuarios.resx">
+      <DependentUpon>frmUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="GUILayer\Reportes\dsArticulos.xsc">
+      <DependentUpon>dsArticulos.xsd</DependentUpon>
+    </None>
+    <None Include="GUILayer\Reportes\dsArticulos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsArticulos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Reportes\dsArticulos.xss">
+      <DependentUpon>dsArticulos.xsd</DependentUpon>
+    </None>
+    <None Include="GUILayer\Reportes\dsEjercicios.xsc">
+      <DependentUpon>dsEjercicios.xsd</DependentUpon>
+    </None>
+    <None Include="GUILayer\Reportes\dsEjercicios.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsEjercicios.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Reportes\dsEjercicios.xss">
+      <DependentUpon>dsEjercicios.xsd</DependentUpon>
+    </None>
+    <None Include="GUILayer\Reportes\dsPerfiles.xsc">
+      <DependentUpon>dsPerfiles.xsd</DependentUpon>
+    </None>
+    <None Include="GUILayer\Reportes\dsPerfiles.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsPerfiles.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Reportes\dsPerfiles.xss">
+      <DependentUpon>dsPerfiles.xsd</DependentUpon>
+    </None>
+    <None Include="GUILayer\Reportes\dsUsuarios.xsc">
+      <DependentUpon>dsUsuarios.xsd</DependentUpon>
+    </None>
+    <None Include="GUILayer\Reportes\dsUsuarios.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dsUsuarios.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="GUILayer\Reportes\dsUsuarios.xss">
+      <DependentUpon>dsUsuarios.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\agregar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\editar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eliminar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
